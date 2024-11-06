@@ -21,5 +21,5 @@ $ brew install git
 - Using the MacOS terminal __ONLY__:
     * Clone this repository
     * Create a file in the directory of the repo with the filename `<name>.txt`
-    * Append the text "Attendance" to `<name>.txt`
+    * Append the text "I know how to use the terminal!" to `<name>.txt`
     * Push your changes to this repo
